@@ -34,26 +34,7 @@
         <span>CSS</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
       </td>
-       <td width="100px" align="center">
-        <span>MongoDb Atlas</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
-      </td>
-       <td width="100px" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-      </td>
-      <td width="100px" align="center">
-        <span>Reactjs</span><br><br><br>
-        <img height="64px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif">
-      </td>
-     <td width="100px" align="center">
-        <span>Flutter</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png">
-      </td>
-      <td width="100px" align="center">
-        <span>NodeJs</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
-      </td>
+       
     </tr>
   </tbody>
 </table>
