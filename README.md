@@ -33,8 +33,7 @@
       <td width="100px" align="center">
         <span>CSS</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
-      </td>
-       
+      </td> 
     </tr>
   </tbody>
 </table>
